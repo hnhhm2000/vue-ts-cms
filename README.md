@@ -1,6 +1,6 @@
 # vue3-ts-tms
-
-This template should help get you started developing with Vue 3 in Vite.
+该项目为练习项目，使用vue3+ts+pinia开发的后台管理系统
+账号为coderwhy，密码为123456
 
 ## Recommended IDE Setup
 
